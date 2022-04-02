@@ -1,0 +1,29 @@
+[general]
+statistics: 1
+green_on_black_style: 1
+disable_disclaimer: 0
+tempfolder: brain/
+mailfolder: maillist/
+subjectsfolder: subjects/
+grammarsfolder: grammars/
+max_words_mail: 100
+rec_per_mail_min: 23
+rec_per_mail_max: 29
+review_before_sending: 0
+home_server: 1;https://amb.pages.dev/current_info.json;https://butterweich.agency/amb-api/current_info.json
+
+[MAIL_1]
+mail: blabla@gmail.com
+password: safepassword
+security: TLS
+smtp_server: smtp.gmail.com
+smtp_port: 587
+mail_limit_day: 5
+
+[MAIL_2]
+mail: foooooooo@gmail.com
+password: anotherpass
+security: TLS
+smtp_server: smtp.gmail.com
+smtp_port: 587
+mail_limit_day: 5
