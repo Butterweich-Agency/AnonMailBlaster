@@ -3,7 +3,7 @@ Please connect with us on social media for annoucements and infosharing! \
 [![Twitter URL](https://img.shields.io/twitter/url/https/twitter.com/BWA_Lead.svg?style=social&label=Follow%20%40BWA_Lead)](https://twitter.com/BWA_Lead)\
 [Join our Discord to exchange tips and tricks](https://discord.gg/vv5JdRs62Z)
 
-# Внимание: НЕ ИСПОЛЬЗУЙТЕ ЭТУ УТИЛИТУ, если вы находитесь в России, на территории контролируемой Россией или имеете причины опасаться российского наблюдения. Эта утилита вашу задницу не скрывает!
+# Внимание: НЕ ИСПОЛЬЗУЙТЕ ЭТУ ПРОГРАММУ, если вы находитесь в Российской Федерации или на территории, которая подлежит влиянию русских властей. Так же не пользуйтесь этой программой если у вас есть причина опасаться отслеживания со стороны государства России. Наша программа не сможет прикрыть вашу задницу.
 
 # AnonMailBlaster - General Info 
 A open-source free-to-use python-based tool to send unique emails to close Russian friends fully automatically. Consists of a memory-friendly mailloader module, a textgenerator than can generate text based on grammar and finally mailer.py, which uses these modules to send your mails. 
