@@ -302,7 +302,6 @@ if __name__ == "__main__":
                     except: 
                         print("    > Sending mail failed")
                         receiver = []
-                    ReportSent(settings, len(receiver))
             
             if(daily_limit_reached): #Just sleep 6 to 16 hours randomly
                 print("> Reached limit for today. Wait until tomorrow :) ")
