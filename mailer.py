@@ -10,6 +10,7 @@ from cryptography.hazmat.primitives.asymmetric import rsa
 from cryptography.hazmat.primitives import serialization, hashes
 from cryptography.hazmat.primitives.serialization import load_pem_public_key
 from cryptography.hazmat.primitives.asymmetric import padding
+from colorama import Fore, Back, Style
 
 VERSION = 1.0
 EXT_JSON = None
@@ -248,7 +249,7 @@ if __name__ == "__main__":
 
     #Activate green-on-black
     if(int(settings.get("general", 'green_on_black_style'))): #Give the kids green terminals on black bg <3
-        print("\033[32;40m", )
+        print(Fore.GREEN + Back.BLACK)
 
     PullLatestInfo(settings)
     print("   Started Anonymous Mail Blaster 2022")
@@ -313,5 +314,5 @@ if __name__ == "__main__":
                 time.sleep(random.randint(60,120))
 
     except KeyboardInterrupt:
-        print("\033[0m") #Reset terminal color settings
+        print(Style.RESET_ALL)
         exit(0)
