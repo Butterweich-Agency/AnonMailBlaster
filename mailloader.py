@@ -8,7 +8,7 @@ import sys, os, random, re, time
 # Even if not real random, I recommend fastmode=True.
 
 # python3 mailloader.py <amount-of-mails>
-regex = re.compile(r'([A-Za-z0-9]+[.-_])*[A-Za-z0-9]+@[A-Za-z0-9-]+(\.[A-Z|a-z]{2,})+')
+regex = re.compile(r'([A-Za-z0-9]+[.\-_])*[A-Za-z0-9]+@[A-Za-z0-9-]+(\.[A-Z|a-z]{2,})+')
 
 class MailLoader:
     def __init__(self, path, fastmode=True):
