@@ -28,11 +28,15 @@ This tool uses datasets which you need to find yourself: Maillists, which are ".
 
 ### How to install? 
 (We wont explain how to install Python3 on every OS. Just google it and use official sources only! Its for your safety and our laziness) \
+
+There is also a youtube-video already on how to install it on Windows 10:
+[![Unofficial Youtube Installation Video](https://img.youtube.com/vi/tMcCGPjbiJg/0.jpg)](https://www.youtube.com/watch?v=tMcCGPjbiJg)
+
 \
 Step 1: On the top right click Code > "Download Zip" \
 Step 2: Unpack the folder to somewhere \
 Step 3: Download and Install Python 3.10 (Windows users, you can find it in Microsoft Store) \
-Step 4: If you want "green-font-on-black-background"-terminal run "pip install colorama" in your command line to install the colorama module. \
+Step 4: If you want "green-font-on-black-background"-terminal run "pip install colorama" in your command line to install the colorama module. (Only works on Linux rn) \
 Step 5: Go to your AnonMailBlaster Folder and rename settings.ini.temp in settings.ini \
 Step 6: Right click settings.ini and open with any text editor. Please review title "settings.ini" for more info \
 Step 7: At [MAIL_1] enter your first mail, password and smtp settings. DO NOT USE A PRIVATE MAIL! Default smtp-settings is google. \
