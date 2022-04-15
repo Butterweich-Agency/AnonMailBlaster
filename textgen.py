@@ -18,7 +18,7 @@ class Grammar:
     def GrammarIsValid(self, grammar):
         if(grammar.count("[") != grammar.count("]")):
             print("[WARNING] Ignoring a grammar [ != ].")
-            #print(grammar, "\n\n") #Debugging
+            print(grammar, "\n\n") #Debugging
             return False
         return True
 

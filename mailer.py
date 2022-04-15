@@ -68,7 +68,6 @@ def SendMail(sender_acc, receiverlist, message, subject):
     msg['Subject'] = subject
     msg['From'] = sender_acc.mail
     msg['To'] = ", ".join(receiverlist)
-    return
     with smtplib.SMTP(sender_acc.smtp_server, sender_acc.smtp_port) as server:
         if(sender_acc.security.lower() == "tls"):
             server.ehlo()
