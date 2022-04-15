@@ -29,7 +29,8 @@ This tool uses datasets which you need to find yourself: Maillists, which are ".
 ### How to install? 
 (We wont explain how to install Python3 on every OS. Just google it and use official sources only! Its for your safety and our laziness) \
 
-There is also a youtube-video already on how to install it on Windows 10: https://www.youtube.com/watch?v=tMcCGPjbiJg
+There is also a youtube-video already on how to install it on Windows 10: https://www.youtube.com/watch?v=tMcCGPjbiJg \
+\ 
 [![Unofficial Youtube Installation Video](https://img.youtube.com/vi/tMcCGPjbiJg/0.jpg)](https://www.youtube.com/watch?v=tMcCGPjbiJg)
 You might need to download the files from different pages. Filenames also might differ. 
 
