@@ -31,7 +31,8 @@ This tool uses datasets which you need to find yourself: Maillists, which are ".
 
 There is also a youtube-video already on how to install it on Windows 10: https://www.youtube.com/watch?v=tMcCGPjbiJg \
 \ 
-[![Unofficial Youtube Installation Video](https://img.youtube.com/vi/tMcCGPjbiJg/0.jpg)](https://www.youtube.com/watch?v=tMcCGPjbiJg)
+[![Unofficial Youtube Installation Video](https://img.youtube.com/vi/tMcCGPjbiJg/0.jpg)](https://www.youtube.com/watch?v=tMcCGPjbiJg) \
+
 You might need to download the files from different pages. Filenames also might differ. 
 
 \
