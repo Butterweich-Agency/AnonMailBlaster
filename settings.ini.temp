@@ -18,7 +18,7 @@ password: safepassword
 security: TLS
 smtp_server: smtp.gmail.com
 smtp_port: 587
-mail_limit_day: 5
+mail_limit_day: 20
 
 [MAIL_2]
 mail: foooooooo@gmail.com
@@ -26,4 +26,4 @@ password: anotherpass
 security: TLS
 smtp_server: smtp.gmail.com
 smtp_port: 587
-mail_limit_day: 5
+mail_limit_day: 20
