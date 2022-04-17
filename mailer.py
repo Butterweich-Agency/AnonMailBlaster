@@ -299,8 +299,9 @@ if __name__ == "__main__":
                     try:
                         SendMail(account, receiver, mail, subject)
                         ReportSent(settings, len(receiver))
-                    except: 
+                    except Exception as e: 
                         print("    > Sending mail failed")
+                        print(e)
                         receiver = []
             
             if(daily_limit_reached): #Just sleep 6 to 16 hours randomly
